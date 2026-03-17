@@ -17,7 +17,7 @@ Python 3.10+
         tasks.py    # task logic
         storage.py  # save and load json
     tests/
-    test_tasks.py   # unit tests
+        test_tasks.py   # unit tests
 ## How to run it
 Open the root directory in the terminal, and run `python TaskSort/main.py <command>`
 ## Example commands
